@@ -34,4 +34,5 @@
   * [\* Procedures](group-1/police-sop/procedures.md)
   * [🚫 Use Of Force Policy](group-1/police-sop/use-of-force-policy.md)
   * [🧾 Procedures, Miranda Rights And Probable Cause](group-1/police-sop/procedures-miranda-rights-and-probable-cause.md)
+  * [💻 MDT Template and Procedures](group-1/police-sop/mdt-template-and-procedures.md)
 * [🗒 San Andreas State Laws](group-1/san-andreas-state-laws.md)
