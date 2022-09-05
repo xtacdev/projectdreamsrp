@@ -1,3 +1,8 @@
+---
+cover: ../../.gitbook/assets/policesop.png
+coverY: 0
+---
+
 # 🚨 Police SOP
 
 <figure><img src="../../.gitbook/assets/spaces_20tEzxq1MaEnUTyEFmM0_uploads_TPoOQEMIOuIIUMHzj1Bm_0.png" alt=""><figcaption><p><mark style="color:orange;"><strong>Los Santos Police Department</strong></mark></p></figcaption></figure>

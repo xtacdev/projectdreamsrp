@@ -29,7 +29,7 @@
 
 * [🚨 Police SOP](standard-operating-procedures-sop/police-sop/README.md)
   * [👋 Introduction](standard-operating-procedures-sop/police-sop/introduction.md)
-  * [🗂 Subdivisions](standard-operating-procedures-sop/police-sop/subdivisions.md)
+  * [🗂 Sub divisions](standard-operating-procedures-sop/police-sop/sub-divisions.md)
   * [🔗 Rank Structure](standard-operating-procedures-sop/police-sop/rank-structure.md)
   * [♾ Employee Conduct](standard-operating-procedures-sop/police-sop/employee-conduct.md)
   * [\* Procedures](standard-operating-procedures-sop/police-sop/procedures.md)

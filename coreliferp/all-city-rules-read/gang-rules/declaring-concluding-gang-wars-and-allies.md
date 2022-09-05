@@ -2,7 +2,7 @@
 description: >-
   Please read all of the following rules in this category to further your
   gameplay experience.
-cover: ../../../.gitbook/assets/gangrules (1).png
+cover: ../../../.gitbook/assets/allgangrules (1).png
 coverY: 0
 ---
 

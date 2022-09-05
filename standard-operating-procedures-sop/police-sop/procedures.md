@@ -1,3 +1,8 @@
+---
+cover: ../../.gitbook/assets/policeprocedures.png
+coverY: 0
+---
+
 # \* Procedures
 
 {% hint style="info" %}

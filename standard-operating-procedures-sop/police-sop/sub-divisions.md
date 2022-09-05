@@ -1,4 +1,9 @@
-# 🗂 Subdivisions
+---
+cover: ../../.gitbook/assets/policesubdivisions.png
+coverY: 0
+---
+
+# 🗂 Sub divisions
 
 {% hint style="info" %}
 **Patrol Division:** (read below)

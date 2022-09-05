@@ -2,6 +2,8 @@
 description: >-
   Please read all of the following listed in this category to further your
   gameplay experience.
+cover: ../../.gitbook/assets/policeintroduction.png
+coverY: 0
 ---
 
 # 👋 Introduction

@@ -1,3 +1,8 @@
+---
+cover: ../../.gitbook/assets/policemdtsystem.png
+coverY: -2.8193832599118944
+---
+
 # 💻 MDT Template and Procedures
 
 {% hint style="info" %}

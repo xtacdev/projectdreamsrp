@@ -2,7 +2,7 @@
 description: >-
   Please read all of the following rules in this category to further your
   gameplay experience.
-cover: ../../.gitbook/assets/lawyer-info.png
+cover: ../../.gitbook/assets/laywerinfo.png
 coverY: 0
 ---
 

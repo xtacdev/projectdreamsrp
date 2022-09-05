@@ -2,7 +2,7 @@
 description: >-
   Please read all of the following rules in this category to further your
   gameplay experience.
-cover: ../../.gitbook/assets/nlr.png
+cover: ../../.gitbook/assets/newliferule.png
 coverY: 0
 ---
 

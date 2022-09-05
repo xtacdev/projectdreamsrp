@@ -1,4 +1,6 @@
 ---
+cover: ../../.gitbook/assets/policeemployeeconduct.png
+coverY: 0
 layout: editorial
 ---
 

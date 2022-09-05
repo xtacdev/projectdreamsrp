@@ -3,6 +3,8 @@ description: >-
   The Police Department has a total of twelve sworn officer ranks. All-new,
   incoming members start their career as a Cadet and work their way up by
   serving the community and protecting our people.
+cover: ../../.gitbook/assets/policerankstructure.png
+coverY: 0
 ---
 
 # 🔗 Rank Structure

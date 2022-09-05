@@ -1,3 +1,8 @@
+---
+cover: ../../.gitbook/assets/policeuseofforce.png
+coverY: 0
+---
+
 # 🚫 Use Of Force Policy
 
 {% hint style="danger" %}

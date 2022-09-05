@@ -1,3 +1,8 @@
+---
+cover: ../../.gitbook/assets/policepmrpc.png
+coverY: 0
+---
+
 # 🧾 Procedures, Miranda Rights And Probable Cause
 
 {% hint style="success" %}

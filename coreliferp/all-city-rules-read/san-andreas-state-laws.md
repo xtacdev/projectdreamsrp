@@ -1,5 +1,7 @@
 ---
 description: San Andreas Laws for citizens to follow and understand.
+cover: ../../.gitbook/assets/statelaws.png
+coverY: 0
 ---
 
 # 🗒 San Andreas State Laws
